@@ -1,0 +1,11 @@
+new entry "WGTY_Background_Goat_Proficiency"
+type "PassiveData"
+data "DisplayName" "h3ad0cebegf87bg40bbg8bf2g83ef81917180;2"
+data "Description" "h4444aea5g78a2g4e27g8f2ag880239ddbea5;2"
+data "Boosts" "ProficiencyBonus(Skill,Athletics);ProficiencyBonus(Skill,AnimalHandling)"
+
+new entry "WGTY_Background_Goat_Other"
+type "PassiveData"
+data "DisplayName" "h3ad0cebegf87bg40bbg8bf2g83ef81917180;2"
+data "Description" "h4444aea5g78a2g4e27g8f2ag880239ddbea5;2"
+data "Boosts" "StatusImmunity(DIFFICULT_TERRAIN);StatusImmunity(DIFFICULT_TERRAIN_MUD);DarkvisionRangeMin(6)"

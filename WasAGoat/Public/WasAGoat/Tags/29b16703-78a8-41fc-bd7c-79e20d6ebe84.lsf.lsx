@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="58" />
+  <region id="Tags">
+    <node id="Tags">
+      <attribute id="Description" type="LSString" value="|You have spent the last decade or so living as a goat on an otherwise abandoned island. Just as you had gotten used to no longer being your original race, a strange turn of events cause you to rematerialize in your original form.|" />
+      <attribute id="DisplayDescription" type="TranslatedString" handle="h9042f493g39d1g476agb22dg38cc3a1a99f2" version="1" />
+      <attribute id="DisplayName" type="TranslatedString" handle="h7ea8a803gb747g4a3dgafacga329eae339ae" version="1" />
+      <attribute id="Icon" type="FixedString" value="" />
+      <attribute id="Name" type="FixedString" value="WGTY_BACKGROUND_GOAT_TAG" />
+      <attribute id="UUID" type="guid" value="29b16703-78a8-41fc-7cbd-e2796e0d84be" />
+      <children>
+        <node id="Categories">
+          <children>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Code" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Dialog" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Background" />
+            </node>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

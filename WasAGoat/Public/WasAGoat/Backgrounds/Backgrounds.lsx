@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="307"/>
+    <region id="Backgrounds">
+        <node id="root">
+            <children>
+                <node id="Background">
+                    <attribute id="Description" type="TranslatedString" handle="h1b420d2dg01eeg4ccegab7cgc9d4602a3a91" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc4e8cfffg7d8fg4b24g8c40g4f455a80af43" version="1"/>
+                    <attribute id="Passives" type="LSString" value="WGTY_Background_Goat_Proficiency;WGTY_Background_Goat_Other"/>
+                    <attribute id="UUID" type="guid" value="80dcee2e-e8ce-4ee1-827d-9eb3e519410c"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="29b16703-78a8-41fc-bd7c-79e20d6ebe84"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

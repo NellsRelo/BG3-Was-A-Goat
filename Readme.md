@@ -1,6 +1,8 @@
 # Was A Goat for 10 Years
 [![GitHub release](https://img.shields.io/github/v/tag/NellsRelo/BG3-Was-A-Goat?label=Latest%20Version)](https://GitHub.com/NellsRelo/BG3-Was-A-Goat/releases/) [![GitHub commits](https://img.shields.io/github/commits-since/NellsRelo/BG3-Was-A-Goat/2.0.2/main)](https://GitHub.com/NellsRelo/BG3-Was-A-Goat/commit/)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O8PG8RF)
+
 ## Introduction
 In 2018, reddit user u/Metabot submitted a delightful homebrew Background to
 r/UnearthedArcana: "Was a Goat for 10 Years." With their permission, I've ported
